@@ -127,10 +127,6 @@ export default function Home() {
           Copyright &#169; mahadsdevportfolio.com | All rights reserved
         </div>
       </footer>
-      <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-    <script>
-        var typed = new Typed('#element', {strings=['Automation Engineer', 'Computer Scientist', 'IT Support Specialist', 'Web Designer', 'Cloud Engineer', 'Software Developer'], typeSpeed=50, });
-    </script>
     </>
   )
 }
