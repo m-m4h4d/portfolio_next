@@ -30,9 +30,8 @@ export default function Home() {
             <div> and I'm a passionate</div>
             <span id="element"></span>
             <div className="buttons">
-              <form>
-                <button className="btn" type="submit" onclick="window.open('Resume-LinkedIn.pdf')">Download
-                  Resume</button>
+              <form action="/Resume-LinkedIn.pdf" method="get" target="_blank">
+              <button className="btn">Download Resume</button>
               </form>
               <form action="https://github.com/m-m4h4d" method="get" target="_blank">
                 <button className="btn">Visit GitHub</button>
