@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <header>
         <nav>
-          <div className="left">Mahad&aposs Portfolio</div>
+          <div className="left">Mahad&apos;s Portfolio</div>
           <div className="right">
             <ul>
               <li><a href="/">Home</a></li>
@@ -27,7 +27,7 @@ export default function Home() {
         <section className="firstSection">
           <div className="leftSection">
             <div>Hi! My name is </div><span className="name">Muhammad Mahad</span>
-            <div> and I&aposm a passionate</div>
+            <div> and I&apos;m a passionate</div>
             <span id="element"></span>
             <div className="buttons">
               <form action="/Resume-LinkedIn.pdf" method="get" target="_blank">
@@ -39,15 +39,15 @@ export default function Home() {
             </div>
           </div>
           <div className="rightSection">
-            <Image src="/b.png" alt="" />
+            <img src="/b.png" alt="" />
           </div>
         </section>
         <hr />
         <section className="secondSection">
-          <span className="text">What I&aposm capable of</span>
+          <span className="text">What I&apos;m capable of</span>
           <h1>Skillset</h1>
           <div className="box">
-            <Image className="image-top" src="/1.png" alt="" />
+            <img className="image-top" src="/1.png" alt="" />
             <div className="vertical">
               <div className="vertical-title">
                 Automation Engineer
@@ -58,7 +58,7 @@ export default function Home() {
                 to complex using Python and Bash.
               </div>
             </div>
-            <Image className="image-top" src="/2.png" alt="" />
+            <img className="image-top" src="/2.png" alt="" />
             <div className="vertical">
               <div className="vertical-title">
                 Software Developer
@@ -68,7 +68,7 @@ export default function Home() {
                 optimization, debugging, troubleshooting, Git, and GitHub.
               </div>
             </div>
-            <Image className="image-top" src="/3.png" alt="" />
+            <img className="image-top" src="/3.png" alt="" />
             <div className="vertical">
               <div className="vertical-title">
                 IT Support Specialist
@@ -78,7 +78,7 @@ export default function Home() {
                 identify and implement solutions for technical issues.
               </div>
             </div>
-            <Image className="image-top" src="/4.png" alt="" />
+            <img className="image-top" src="/4.png" alt="" />
             <div className="vertical">
               <div className="vertical-title">
                 Web Designer
@@ -87,7 +87,7 @@ export default function Home() {
                 Passionate Web Designer. Skilled in website building using HTML, CSS, JavaScript, and React.
               </div>
             </div>
-            <Image className="image-top" src="/5.png" alt="" />
+            <img className="image-top" src="/5.png" alt="" />
             <div className="vertical">
               <div className="vertical-title">
                 Cloud Engineer
@@ -104,7 +104,7 @@ export default function Home() {
       <footer>
         <div className="footer">
           <div className="footer-first">
-            <h3>Mahad&#39s Developer Portfolio</h3>
+            <h3>Mahad&#39;s Developer Portfolio</h3>
           </div>
           <div className="footer-second">
             <ul>
@@ -120,14 +120,6 @@ export default function Home() {
               <li>GitHub</li>
               <li>Twitter</li>
               <li>Instagram</li>
-            </ul>
-          </div>
-          <div className="footer-fourth">
-            <ul>
-              <li>Home</li>
-              <li>About</li>
-              <li>Services</li>
-              <li>Contact</li>
             </ul>
           </div>
         </div>
