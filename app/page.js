@@ -31,7 +31,7 @@ export default function Home() {
             <span id="element"></span>
             <div className="buttons">
               <form action="/Resume-LinkedIn.pdf" method="get" target="_blank">
-              <button className="btn">Download Resume</button>
+                <button className="btn">Download Resume</button>
               </form>
               <form action="https://github.com/m-m4h4d" method="get" target="_blank">
                 <button className="btn">Visit GitHub</button>
@@ -47,8 +47,8 @@ export default function Home() {
           <span className="text">What I'm capable of</span>
           <h1>Skillset</h1>
           <div className="box">
+            <img className="image-top" src="/1.png" alt="" />
             <div className="vertical">
-              <img className="image-top" src="/1.png" alt="" />
               <div className="vertical-title">
                 Automation Engineer
               </div>
@@ -58,8 +58,8 @@ export default function Home() {
                 to complex using Python and Bash.
               </div>
             </div>
+            <img className="image-top" src="/2.png" alt="" />
             <div className="vertical">
-              <img className="image-top" src="/2.png" alt="" />
               <div className="vertical-title">
                 Software Developer
               </div>
@@ -68,8 +68,8 @@ export default function Home() {
                 optimization, debugging, troubleshooting, Git, and GitHub.
               </div>
             </div>
+            <img className="image-top" src="/3.png" alt="" />
             <div className="vertical">
-              <img className="image-top" src="/3.png" alt="" />
               <div className="vertical-title">
                 IT Support Specialist
               </div>
@@ -78,8 +78,8 @@ export default function Home() {
                 identify and implement solutions for technical issues.
               </div>
             </div>
+            <img className="image-top" src="/4.png" alt="" />
             <div className="vertical">
-              <img className="image-top" src="/4.png" alt="" />
               <div className="vertical-title">
                 Web Designer
               </div>
@@ -87,8 +87,8 @@ export default function Home() {
                 Passionate Web Designer. Skilled in website building using HTML, CSS, JavaScript, and React.
               </div>
             </div>
+            <img className="image-top" src="/5.png" alt="" />
             <div className="vertical">
-              <img className="image-top" src="/5.png" alt="" />
               <div className="vertical-title">
                 Cloud Engineer
               </div>

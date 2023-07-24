@@ -137,26 +137,26 @@ main hr {
   height: 90px;
   width: 1px;
   background: white;
-  margin: 0 8vw;
+  margin: 0 5vw;
 }
 
 .image-top {
-  width: 53px;
+  height: 50px;
   position: relative;
   top: -52px;
-  left: -27px;
+  left: 93px;
 }
 
 .vertical-title {
   position: relative;
-  top: 40px;
+  top: 85px;
   width: 150px;
   font-size: 22px;
 }
 
 .vertical-description {
   position: relative;
-  top: 45px;
+  top: 85px;
   color: gray;
   width: 150px;
   font-size: 10px;
